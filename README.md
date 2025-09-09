@@ -37,3 +37,7 @@ Para aceder ao projeto localmente, siga os passos abaixo:
 
   - **Adicionar amigos:** Digite o nome do amigo e clique no botão "Adicionar".
   - **Sortear amigo secreto:** Após adicionar os amigos, clique no botão "Sortear amigo" para saber quem tirou quem na lista do amigo secreto.
+
+## 📫 Onde me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hagatchristiepereira)
+[![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail:hagatchristie.business@gmail.com)
